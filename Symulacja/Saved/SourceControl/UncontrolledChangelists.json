@@ -152,13 +152,18 @@
 				"S:/Polibuda/s10/Symulacja/Content/__ExternalActors__/Map/7/0W/9BCL3P0HXIQSF1A6P1U9XV.uasset",
 				"S:/Polibuda/s10/Symulacja/Content/Map.umap",
 				"S:/Polibuda/s10/Symulacja/Content/PC.uasset",
-				"S:/Polibuda/s10/Symulacja/Content/KeyMapping.uasset",
-				"S:/Polibuda/s10/Symulacja/Content/IA_Release.uasset",
 				"S:/Polibuda/s10/Symulacja/Content/Keys/IA_Release.uasset",
 				"S:/Polibuda/s10/Symulacja/Content/Keys/IA_Reload.uasset",
 				"S:/Polibuda/s10/Symulacja/Content/Keys/KeyMapping.uasset",
 				"S:/Polibuda/s10/Symulacja/Content/Blueprints/GM.uasset",
-				"S:/Polibuda/s10/Symulacja/Content/Projectile.uasset"
+				"S:/Polibuda/s10/Symulacja/Content/Projectile.uasset",
+				"S:/Polibuda/s10/Symulacja/Content/UI.uasset",
+				"S:/Polibuda/s10/Symulacja/Content/UI_Textbox.uasset",
+				"S:/Polibuda/s10/Symulacja/Content/Keys/IA_ShowCursor.uasset",
+				"S:/Polibuda/s10/Symulacja/Content/UI_Score.uasset",
+				"S:/Polibuda/s10/Symulacja/Content/UI_ScoreInfo.uasset",
+				"S:/Polibuda/s10/Symulacja/Content/KeyMapping.uasset",
+				"S:/Polibuda/s10/Symulacja/Content/IA_Release.uasset"
 			]
 		}
 	]
